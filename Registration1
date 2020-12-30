@@ -1,0 +1,91 @@
+<html>
+<head> 
+    <title>ass2.html</title>
+</head>
+    <body>
+        <form action="#" method="get">
+        <h1 style="text-decoration-line: underline">Registration form</h1>
+        <table>
+            <tr>
+        <td>
+        <h3>name:</h3>
+        </td>
+            <td>
+              <h3><input type="text"></h3>
+            </td>
+            </tr>
+            <tr>
+                <td>
+        <h3 >Phone number:</h3>
+            </td>
+        <td>
+             <input type="text">
+                </td>
+            </tr>
+            <tr>
+                <td>
+        <h3 >Email_Id:</h3>
+                </td>
+                <td>
+                <input type="text">
+                </td>
+            </tr>
+            <tr> 
+                <td> 
+        <h3 >Age:</h3>
+                </td>
+                <td>  
+                <input type="text">
+                </td>
+            </tr>
+            <tr>
+                <td> 
+        <h3 >date of birth:</h3>
+                </td>
+                <td>
+                 <input type="date">
+                </td>
+            </tr>
+            <tr>
+                <td>
+        <h3 >Favourate colour:</h3>
+                </td>
+                <td>
+                 <input type="color">
+                </td>
+            </tr>
+            <tr>
+                <td>
+        <h3 >select qualifiaction:</h3>
+                </td>
+                <td>
+                 <input list="qualifiacation" name="browser">
+                       <datalist id="qualifiacation">
+                <option value="10th">
+                <option value="inter"> 
+                <option value="b.tech"> 
+            </datalist>      
+
+                </td>
+            </tr>
+            <tr>
+                <td>
+                <h3>course start date:</h3>
+                </td>
+                <td> 
+                <input type="date">
+                </td>
+            </tr>
+           <tr>
+               <td>
+                   <h3>submit</h3>
+               </td>
+               <td>
+                <input type="submit">
+               </td>
+            </tr>
+          </table>  
+        </form>
+    </body>
+    
+</html>
