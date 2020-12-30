@@ -1,0 +1,26 @@
+<html>
+<head>
+    <title>Ass1.html</title>
+</head>
+    <body>
+        <h1>Personal Information</h1>
+        <details>
+        <summary>
+          Details</summary>
+            <p> Educational Details:
+            <br>I am Electrical Engineer. But due to lots of curiosity about IT field I was shifted to this career in Year 2000. I start my career with simple notepad application, as I was unaware of anything from computers.</br>
+
+       <br> Then I go with C, C++, DS, SQL, C#.Net, VB.Net, Asp.Net, Sharepoint, SqlServer2008, HTML, CSS, Javascript, Jquery one by one.</br>
+
+    <br>Today if I turned back to my careerpath, I am feeling very good. 'SEED', is not only my company, but my friend , my inspiration also. It develops me a lot.So Thanks SEED.</br>
+
+</p>  
+        </details>
+<h5>Enter your favourite car brand:<input type="search">&nbsp;<input type="submit"></h5>
+
+<h4>Seed Infotech is having some fixed <mark class="yellow">values</mark>,<mark class="yellow">vision</mark>and<mark class="yellow">student centric culture.</mark></h4>
+
+<h3>By Gauri Kadam.</h3>
+
+    </body>
+</html>
